@@ -28,5 +28,5 @@ Farmers often face crop losses due to diseases caused by fungi, bacteria, and vi
 
 ---
 
-## 📂 Project Structure
+
 
