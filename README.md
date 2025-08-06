@@ -4,7 +4,7 @@ Farmers often face crop losses due to diseases caused by fungi, bacteria, and vi
 
 **KrishiGPT** is an intelligent, AI-powered chatbot designed specifically for farmers. It offers instant support on crop diseases, fertilizers, weather updates, and helps locate nearby agricultural shops through Google Maps integration. Built with a user-friendly web interface and powered by conversational AI, this project aims to bridge the knowledge gap for Indian farmers using accessible technology.
 
-![KrishiGPT Screenshot](preview-image-url)
+
 
 ---
 
