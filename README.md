@@ -4,8 +4,6 @@ Farmers often face crop losses due to diseases caused by fungi, bacteria, and vi
 
 **KrishiGPT** is an intelligent, AI-powered chatbot designed specifically for farmers. It offers instant support on crop diseases, fertilizers, weather updates, and helps locate nearby agricultural shops through Google Maps integration. Built with a user-friendly web interface and powered by conversational AI, this project aims to bridge the knowledge gap for Indian farmers using accessible technology.
 
-
-
 ---
 
 ## 🚀 Features
@@ -17,7 +15,7 @@ Farmers often face crop losses due to diseases caused by fungi, bacteria, and vi
 - 🧭 "Share Location" feature to personalize suggestions
 - 📱 Fully responsive UI (mobile & desktop)
 - 🎨 Tailwind CSS-based clean design
-- 🔧 Easily extendable to backend APIs (OpenAI, Firebase, Flask)
+- 🧠 Plant Disease Detection Through Image Analysis
 
 ---
 
@@ -25,10 +23,10 @@ Farmers often face crop losses due to diseases caused by fungi, bacteria, and vi
 
 🔗 [Live Preview](https://preview-krishigpt-app-kzml3gdo6c2o9ycnxftj.vusercontent.net/)  
 
-
+![Alt text](https://github.com/Navya-shree27/KrishiGPT/blob/821d8ede154ed3a6c53ea4892aa44f2c4f10fc66/11.jpg)
 ![Alt text](https://github.com/Navya-shree27/KrishiGPT/blob/0ccc1e8d2df4729037c8ba88cbb745372745ed85/i1.jpg)
 ![Alt text](https://github.com/Navya-shree27/KrishiGPT/blob/0c883094d586448ab7c3b3b655097614dbf31351/i4.jpg)
 ![Alt text](https://github.com/Navya-shree27/KrishiGPT/blob/0c883094d586448ab7c3b3b655097614dbf31351/i5.jpg)
-
+![Alt text](https://github.com/Navya-shree27/KrishiGPT/blob/821d8ede154ed3a6c53ea4892aa44f2c4f10fc66/9.jpg)
 
 
