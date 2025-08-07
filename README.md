@@ -25,7 +25,7 @@ Farmers often face crop losses due to diseases caused by fungi, bacteria, and vi
 
 🔗 [Live Preview](https://preview-krishigpt-app-kzml3gdo6c2o9ycnxftj.vusercontent.net/)  
 
-![image alt]([i](https://github.com/Navya-shree27/KrishiGPT/blob/1d35eba60833991794e3dea8518f9c70486d43f2/i2.jpg)
+![image alt](https://github.com/Navya-shree27/KrishiGPT/blob/1d35eba60833991794e3dea8518f9c70486d43f2/i2.jpg)
 
 
 
